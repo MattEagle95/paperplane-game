@@ -1,0 +1,23 @@
+{
+  "name": "paperplane-game",
+  "version": "1.0.0",
+  "description": "a simple multiplayer game with nodejs, express and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattEagle95/paperplane-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattEagle95/paperplane-game/issues"
+  },
+  "homepage": "https://github.com/MattEagle95/paperplane-game#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.2.0"
+  }
+}
